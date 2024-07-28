@@ -13,7 +13,6 @@ Vamos começar com alguns exemplos básicos de PHP.
 #### Hello World
 
 Um exemplo clássico de "Hello World" em PHP:
-![[Pasted image 20240727205914.png]]
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -34,8 +33,6 @@ Um exemplo clássico de "Hello World" em PHP:
 #### Variáveis
 
 Em PHP, variáveis são prefixadas com um `$`:
-
-![[Pasted image 20240727210043.png]]
 ```
 <?php
 $name = "John";
@@ -48,9 +45,6 @@ echo "Name: $name, Age: $age";
 #### Arrays
 
 Arrays podem ser indexados ou associativos:
-
-![[Pasted image 20240727210148.png]]
-
 ```
 <?php
 // Array indexado
@@ -68,9 +62,6 @@ echo $person["name"]; // Output: Alice
 #### Estruturas de Controle
 
 If-Else
-
-![[Pasted image 20240727210405.png]]
-
 ```
 <?php
 $number = 10;
@@ -88,9 +79,6 @@ if ($number > 0) {
 ***
 
 Loop (While, Do-While, For, Foreach)
-
-![[Pasted image 20240727210507.png]]
-
 ```
 <?php
 // While loop
@@ -125,10 +113,6 @@ foreach ($colors as $color) {
 ### Trabalhando com Formulários
 
 PHP é frequentemente usado para processar dados de formulários. Aqui está um exemplo básico:
-
-![[Pasted image 20240727210651.png]]
-![[Pasted image 20240727210711.png]]
-
 ```
 <!--Formulario HTML-->
 
@@ -162,8 +146,6 @@ echo "Name: $name, Age: $age";
 ### Conexão com Banco de Dados MySQL
 
 Aqui está um exemplo de como conectar-se a um banco de dados MySQL e executar uma consulta:
-![[Pasted image 20240727211125.png]]
-
 ```
 <?php
 $servername = "localhost";
