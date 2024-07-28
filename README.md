@@ -1,8 +1,8 @@
 
-# Introdução ao PHP
+# Introdução ao PHP 🚀👩‍🚀
  	PHP (Hypertext Preprocessor) é uma linguagem de script de uso geral que é especialmente adequada para o desenvolvimento web. Ele pode ser embutido no HTML e geralmente é usado em conjunto com um banco de dados MySQL.
 ***
-#### Configuração do Ambiente
+#### Configuração do Ambiente 👩‍💻🖥️
 
 	Antes de começar a programar em PHP, você precisa de um servidor web que suporte PHP e de um editor de texto. O pacote mais comum para configurar um ambiente PHP é o **XAMPP** ou **WAMP** (para Windows), **MAMP** (para macOS) ou **LAMP** (para Linux). Estes pacotes incluem o Apache (servidor web), MySQL (banco de dados), e PHP.
 ***
@@ -181,8 +181,8 @@ $conn->close();
 
 Agora que cobrimos os fundamentos, você pode começar a explorar mais sobre PHP:
 
-- [ ] Funções
-- [ ]  Manipulação de arquivos
-- [ ] Sessões e cookies
-- [ ]  Segurança (como proteger seu código contra injeção SQL, XSS, etc.)
+- [ ] Funções ➕➖➗🟰
+- [ ]  Manipulação de arquivos 📁📂🗃️
+- [ ] Sessões e cookies 🍪🍘
+- [ ]  Segurança (como proteger seu código contra injeção SQL, XSS, etc.) 👮👮‍♀️👮‍♂️🚓
 
