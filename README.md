@@ -1,5 +1,5 @@
 
-# Introdução ao PHP 🚀👩‍🚀
+# Introdução ao PHP 🐘🐘🐘
  	PHP (Hypertext Preprocessor) é uma linguagem de script de uso geral que é especialmente adequada para o desenvolvimento web. Ele pode ser embutido no HTML e geralmente é usado em conjunto com um banco de dados MySQL.
 ***
 #### Configuração do Ambiente 👩‍💻🖥️
@@ -8,7 +8,7 @@
 ***
 ### Sintaxe Básica
 
-Vamos começar com alguns exemplos básicos de PHP.
+Vamos começar com alguns exemplos básicos de PHP. 🚀
 
 #### Hello World
 
